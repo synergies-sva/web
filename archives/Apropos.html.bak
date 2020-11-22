@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<!--
+	Twenty by HTML5 UP	html5up.net | @ajlkn	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Synergies SVA Bienvenue</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="assets/css/main.css">
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
+  </head>
+  <!-- Header Menu -->
+      <header id="header" class="alt">
+        <h1 id="logo"><a href="index.html">Synergies SVA <span>SARL</span></a></h1>
+        <nav id="nav">
+          <ul>
+            <ul>
+              <li class="current"><a href="index.html">Bienvenue</a></li>
+              <li class="current"><a href="Apropos.html">A propos</a></li>
+              <li class="submenu"> <a href="prestations.html">Prestations</a>
+                <ul>
+                  <li><a href="prestations.html">Prestations de services</a></li>
+                  <li><a href="collectivites.html">Collectivités Locales</a></li>
+                  <li><a href="restauration.html">Restauration</a></li>
+                  <li><a href="artisans.html">Artisans</a></li>
+                  <li><a href="artisans.html">Commerces alimentaires</a></li>
+                </ul>
+              </li>
+              <li class="submenu"> <a href="#">Partenaires</a>
+                <ul>
+                  <li><a href="rcc.html">Réseau Compost Citoyen</a></li>
+                  <li><a href="biocold.html">Biocold</a></li>
+                </ul>
+              </li>
+              <li class="submenu"> <a href="#">Ressources</a>
+                <ul>
+                  <li><a href="ADEMEchiffres.html">Déchets</a></li>
+                  <li><a href="compost.html">Compost</a></li>
+                  <li><a href="P-Gprox.html">P-Gprox</a></li>
+                  <li><a href="gaspillage.html">Gaspillage alimentaire</a></li>
+                </ul>
+              </li>
+              <li class="current"><a href="contact.html">Contact</a></li>
+            </ul>
+          </ul>
+        </nav>
+      </header>
+      <!-- Banner -->
+      <section id="banner">
+        <div style="text-align: center;"><span style="color: rgb(31, 128, 170); font-family: &quot;Roboto Slab&quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 1px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; font-size: 48px;"><span
+
+              style="font-family: &quot;roboto slab&quot;;"><span style="color: rgb(31, 128, 170); font-family: &quot;Roboto Slab&quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 1px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; font-size: 48px;"><span
+
+                  style="font-family: &quot;roboto slab&quot;;"><b><br>
+                  </b></span></span></span></span></div>
+        <div style="text-align: center;"><span style="color: rgb(31, 128, 170); font-family: &quot;Roboto Slab&quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 1px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; font-size: 48px;"><span
+
+              style="font-family: &quot;roboto slab&quot;;"><span style="color: rgb(31, 128, 170); font-family: &quot;Roboto Slab&quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 1px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; font-size: 48px;"><span
+
+                  style="font-family: &quot;roboto slab&quot;;"><b><br>
+                  </b></span></span></span></span></div>
+        <div style="text-align: center;"><br>
+          <img src="images/2020-06-29%20-%20Synergies%20SVA%20VAC%20VA%20-%20V3%20%20transp%20Compactl%20-%20LOGO%20.png"
+
+            alt="Synergies SVA SARL" title="Synergies SVA SARL" style="width: 525px; height: 207px;"></div>
+        <div style="text-align: center;"><span style="color: rgb(31, 128, 170); font-family: &quot;Roboto Slab&quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 1px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; font-size: 48px;"><span
+
+              style="font-family: &quot;roboto slab&quot;;"><span style="color: rgb(31, 128, 170); font-family: &quot;Roboto Slab&quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 1px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; font-size: 48px;"><span
+
+                  style="font-family: &quot;roboto slab&quot;;"><b><br>
+                  </b></span></span></span></span></div>
+        <div style="text-align: center;"><span style="color: rgb(31, 128, 170); font-family: &quot;Roboto Slab&quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 1px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; font-size: 48px;"><span
+
+              style="font-family: &quot;roboto slab&quot;;"><span style="color: rgb(31, 128, 170); font-family: &quot;Roboto Slab&quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 1px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; font-size: 48px;"><span
+
+                  style="font-family: &quot;roboto slab&quot;;"><b><br>
+                  </b></span></span></span></span></div>
+        <div style="text-align: center;"><span style="color: rgb(31, 128, 170); font-family: &quot;Roboto Slab&quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 1px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; font-size: 48px;"><span
+
+              style="font-family: &quot;roboto slab&quot;;"><span style="color: rgb(31, 128, 170); font-family: &quot;Roboto Slab&quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 1px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; font-size: 48px;"><span
+
+                  style="font-family: &quot;roboto slab&quot;;"><b>UN PRO</b><span>&nbsp;</span><span
+
+                    style="color: white;">À&nbsp;VOT</span></span></span></span></span><span
+
+            style="color: rgb(31, 128, 170); font-family: &quot;Roboto Slab&quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 1px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; font-size: 48px;"><span
+
+              style="font-family: &quot;roboto slab&quot;;"></span></span><span
+
+            style="color: rgb(31, 128, 170); font-family: &quot;Roboto Slab&quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 1px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; font-size: 48px;"><span
+
+              style="font-family: &quot;roboto slab&quot;;"><span style="color: rgb(31, 128, 170); font-family: &quot;Roboto Slab&quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 1px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; font-size: 48px;"><span
+
+                  style="font-family: &quot;roboto slab&quot;;"><span style="color: white;">RE<span>&nbsp;</span></span></span></span><span
+
+                style="font-family: &quot;Roboto Slab&quot;; font-size: 28px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 1px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; color: rgb(126, 126, 126);"><span
+
+                  style="color: white;"><span style="font-size: 48px;"><span style="font-family: &quot;roboto slab&quot;;">SERVICE</span></span></span></span></span></span><br>
+          <span style="color: rgb(31, 128, 170); font-family: &quot;Roboto Slab&quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 1px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; font-size: 48px;"><span
+
+              style="font-family: &quot;roboto slab&quot;;"><span style="font-family: &quot;Roboto Slab&quot;; font-size: 28px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 1px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; color: rgb(126, 126, 126);"><span
+
+                  style="color: white;"> &nbsp;Prévention gaspillage alimentaire
+                  &amp; gestion biodéchet</span>s</span> </span></span></div>
+        <p></p>
+      </section>
+      <!-- Main -->
+      <article id="main">
+        <header class="special container"> <span class="icon solid fa-chart-bar"></span><img
+
+            src="images/SynergiesSVA-Projet%20entrepreunarial.png" alt="Projet entrepreuneurial Synergies SVA"
+
+            title="Projet entrepreuneurial" style="width: 50%; height: 30%;">
+          <h2> </h2>
+          <br>
+          <h2 style="height: 47px; text-align: center;"><strong>Projet
+              entrepreneurial</strong> </h2>
+          <div style="text-align: justify;"><br>
+            J’ai créé Synergies SVA SARL, pour agir localement et porter les
+            valeurs du développement durable. J’ai choisi de me concentrer sur
+            la gestion des déchets et le gaspillage alimentaire qui sont mes
+            deux champs d’expertise compte tenu de mes expériences
+            professionnelles. Mon objectif est de proposer des solutions
+            concrètes, faciles à mettre en œuvre et économiquement pertinentes
+            pour agir concrètement sur l’environnement sans générer de surcoûts.
+          </div>
+          <p style="height: 99px; margin-top: 18px; text-align: justify;">Je
+            vous propose d'établir ensemble un programme d'action sur-mesure,
+            pour votre organisation. Contactez-moi pour en savoir plus sur ma
+            vision et ma démarche. </p>
+        </header>
+        <!-- One -->
+        <section class="wrapper style2 container special-alt">
+          <div class="row gtr-50">
+            <div class="col-8 col-12-narrower">
+              <header>
+                <h2><br>
+                </h2>
+              </header>
+              <p>Projet entrepreuneurial</p>
+              <p><img src="images/SynergiesSVA-Projet%20entrepreunarial.png" alt="Projet entrepreuneurial Synergies SVA"
+
+                  title="Projet entrepreuneurial" style="width: 50%; height: 30%;"></p>
+              <p><br>
+              </p>
+              <p>Prestations </p>
+              <p><img src="images/SynergiesSVA-Activit%C3%A9es.png" alt="Prestations Synergies SVA"
+
+                  title="Prestations" style="width: 375px; height: 186px;"></p>
+              <p>Des solutions adaptées à vos besoins: </p>
+              <p><br>
+              </p>
+              <footer>
+                <ul class="buttons">
+                  <li><a href="#" class="button">Pour en savoir plus</a></li>
+                </ul>
+              </footer>
+            </div>
+          </div>
+        </section>
+        <!-- Two -->
+        <section class="wrapper style1 container special">
+          <h2 style="height: 47px; text-align: center;"><strong>Prestations</strong></h2>
+          <img src="images/SynergiesSVA-Activit%C3%A9es.png" alt="Prestations Synergies SVA"
+
+            title="Prestations" style="width: 766px; height: 380px;"><br>
+          <br>
+          <div class="row">
+            <div class="col-4 col-12-narrower">
+              <section>
+                <header>
+                  <h3><b>CONTEXTE RÉGLEMENTAIRE</b></h3>
+                </header>
+                <p style="height: 80px; text-align: justify;">La règlementation
+                  environnementale évolue fortement ces dernières années.
+                  L’application du principe «pollueur-payeur» est en train de se
+                  généraliser, cela va changer notre quotidien à titre personnel
+                  et professionnel.</p>
+                <p style="height: 80px; text-align: justify;"><br>
+                </p>
+                <p style="height: 26px; text-align: justify;">Ces contraintes
+                  réglementaires vont :</p>
+                <ul style="text-align: justify;">
+                  <li style="margin-top: -25px;">générer des coûts
+                    supplémentaires pour ceux qui n’ajusteront pas leur pratique</li>
+                  <li>ou vous offrir l’opportunité de prendre conscience de
+                    l’impact de votre activité sur l’environnement et ainsi
+                    favoriser la mise en œuvre de pratiques plus vertueuses. </li>
+                </ul>
+              </section>
+            </div>
+            <div class="col-4 col-12-narrower">
+              <section>
+                <header>
+                  <h3><b>PRESTATIONS SUR MESURE</b></h3>
+                </header>
+                <p style="text-align: justify; height: 24px;">Je travaille avec
+                  mes clients, pour les sensibiliser au gaspillage alimentaire
+                  et à la gestion de leurs biodéchets.</p>
+                <p style="text-align: justify; height: 55px;"><br>
+                </p>
+                <p style="text-align: justify; height: 66px; margin-top: -47px;">Mes
+                  services sont personnalisés pour répondre aux besoins
+                  spécifiques de chacun de mes clients. Je travaille en
+                  collaboration tout au long du processus et garanti des
+                  résultats mesurables. </p>
+                <p style="text-align: justify;"><br>
+                </p>
+                <p style="text-align: justify;">Contactez-moi pour découvrir
+                  comment je peux vous aider aujourd'hui.</p>
+              </section>
+            </div>
+            <div class="col-4 col-12-narrower">
+              <section>
+                <header>
+                  <h3><b>DES SOLUTIONS FACILES À METTRE EN ŒUVRE</b></h3>
+                  <b> </b></header>
+                <b> </b>
+                <div style="text-align: center;">
+                  <p style="height: 6px;"><b>Transformez vos contraintes
+                      réglementaires en opportunités ! </b></p>
+                </div>
+                <b>
+                  <p style="text-align: justify; height: 24px;"><br>
+                  </p>
+                </b>
+                <p style="text-align: justify; height: 24px;">Mon objectif est
+                  de proposer des solutions concrètes, faciles à mettre en œuvre
+                  et économiquement pertinentes (sans générer de surcoûts) pour
+                  agir concrètement sur ces problématiques environnementales.</p>
+                <p style="text-align: justify; height: 24px;"><br>
+                </p>
+                <p style="text-align: justify; height: 24px;"><br>
+                </p>
+                <p style="text-align: justify; height: 24px;"> Découvrez-les et
+                  contactez-moi pour que nous atteignions ensemble vos
+                  objectifs. </p>
+                <b> </b></section>
+              <b> </b></div>
+            <b> </b></div>
+          <b> </b></section>
+      </article>
+    </div>
+    <b> <b>
+        <section id="contact">
+          <header><br>
+          </header>
+        </section>
+      </b></b><b><b>
+        <!-- Footer -->
+        <footer id="footer">
+          <ul class="icons">
+            <li><a href="#" class="icon brands circle fa-twitter"><span class="label">Twitter</span></a></li>
+            <li><a href="#" class="icon brands circle fa-facebook-f"><span class="label">Facebook</span></a></li>
+            <li><a href="#" class="icon brands circle fa-google-plus-g"><span class="label">Google+</span></a></li>
+            <li><a href="#" class="icon brands circle fa-github"><span class="label">Github</span></a></li>
+            <li><a href="#" class="icon brands circle fa-dribbble"><span class="label">Dribbble</span></a></li>
+          </ul>
+          <ul class="copyright">
+            <li>© Untitled</li>
+            <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+          </ul>
+        </footer>
+      </b></b> <b> <b>
+        <!-- Scripts -->
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/jquery.dropotron.min.js"></script>
+        <script src="assets/js/jquery.scrolly.min.js"></script>
+        <script src="assets/js/jquery.scrollex.min.js"></script>
+        <script src="assets/js/browser.min.js"></script>
+        <script src="assets/js/breakpoints.min.js"></script>
+        <script src="assets/js/util.js"></script>
+        <script src="assets/js/main.js"></script> </b> </b>
+  </body>
+</html>
