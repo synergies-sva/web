@@ -1,0 +1,3 @@
+Je confirme avoir informé les utilisateurs finaux sur la confidentialité et obtenu leur autorisation
+ pour la collecte et le traitement de leurs données, y compris l'association de ces données avec les information
+s sur les visites qui sont recueillies dans Google Analytics à partir de mon site et/ou application.
