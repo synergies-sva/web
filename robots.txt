@@ -6,6 +6,10 @@ Disallow: /MenuIFRAME.html
 Disallow: /TEMP envoi.html
 Disallow: /TEMP merci.html
 Disallow: /Temp testTABLE.html
+Disallow: /client.sergines.html
+Disallow: /client.*
+Disallow: /vincent.html
+Disallow: /demo.html
 
 Disallow: /images
 Disallow: /Google Analytics
