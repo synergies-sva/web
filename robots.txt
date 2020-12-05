@@ -6,6 +6,8 @@ Disallow: /MenuIFRAME.html
 Disallow: /TEMP envoi.html
 Disallow: /TEMP merci.html
 Disallow: /Temp testTABLE.html
+Disallow: /TEMPclient.sergines.html
+Disallow: /TEMP*
 Disallow: /client.sergines.html
 Disallow: /client.*
 Disallow: /vincent.html
